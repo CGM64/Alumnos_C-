@@ -1,0 +1,12 @@
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\obj\Debug\net5.0\Backend.csproj.AssemblyReference.cache
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\obj\Debug\net5.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\obj\Debug\net5.0\Backend.AssemblyInfoInputs.cache
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\obj\Debug\net5.0\Backend.AssemblyInfo.cs
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\obj\Debug\net5.0\Backend.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\bin\Debug\net5.0\Backend.deps.json
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\bin\Debug\net5.0\Backend.dll
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\bin\Debug\net5.0\ref\Backend.dll
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\bin\Debug\net5.0\Backend.pdb
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\obj\Debug\net5.0\Backend.dll
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\obj\Debug\net5.0\ref\Backend.dll
+D:\Proyectos C#\Carlos Enrrique Gómez Morales-1590-20-19423\Backend\obj\Debug\net5.0\Backend.pdb
